@@ -241,21 +241,22 @@ nav a:hover {
 }
 
 .cybertruck .vehicle-image {
-  background:
-    linear-gradient(145deg, rgba(210,210,210,0.9), rgba(45,45,45,0.9)),
-    url("https://images.unsplash.com/photo-1519608487953-e999c86e7455?auto=format&fit=crop&w=900&q=80");
+  background-image: url("cybertruck.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
+
 .modely .vehicle-image {
-  background:
-    linear-gradient(145deg, rgba(90,90,90,0.95), rgba(35,35,35,0.95)),
-    url("https://images.unsplash.com/photo-1560958089-b8a1929cea89?auto=format&fit=crop&w=900&q=80");
+  background-image: url("model-y.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .slingshot .vehicle-image {
-  background:
-    linear-gradient(145deg, rgba(255,255,255,0.95), rgba(95,95,95,0.85)),
-    url("https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=80");
+  background-image: url("slingshot.jpg");
+  background-size: cover;
+  background-position: center;
 }
 
 .vehicle-card h3,
