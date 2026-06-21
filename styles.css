@@ -241,20 +241,22 @@ nav a:hover {
 }
 
 .cybertruck .vehicle-image {
-  background-image: url("cybertruck.jpg");
+  background-image: url("images/cybertruck.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .modely .vehicle-image {
-  background-image: url("model-y.jpg");
+  background-image: url("images/model-y.jpg");
   background-size: cover;
   background-position: center;
 }
 
 .slingshot .vehicle-image {
-  background-image: url("slingshot.jpg");
+  background-image: url("images/slingshot.jpg");
   background-size: cover;
+  background-position: center;
+}
   background-position: center;
 }
 
