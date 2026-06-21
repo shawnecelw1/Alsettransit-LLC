@@ -246,7 +246,6 @@ nav a:hover {
   background-position: center;
 }
 
-
 .modely .vehicle-image {
   background-image: url("model-y.jpg");
   background-size: cover;
@@ -257,6 +256,7 @@ nav a:hover {
   background-image: url("slingshot.jpg");
   background-size: cover;
   background-position: center;
+}
 }
 
 .vehicle-card h3,
