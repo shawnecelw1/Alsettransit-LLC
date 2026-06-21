@@ -257,8 +257,16 @@ nav a:hover {
   background-size: cover;
   background-position: center;
 }
-  background-position: center;
+ .vehicle-card .vehicle-image {
+  display: block;
+  height: 240px;
+  opacity: 1;
+  filter: none;
 }
+
+.vehicle-card {
+  background: #080808;
+} 
 
 .vehicle-card h3,
 .service-card h3 {
